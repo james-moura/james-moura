@@ -5,6 +5,8 @@ Atualmente, estou focando meus estudos em Segurança Ofensiva. Além disso, gost
 
 Estou animado para compartilhar meus projetos e aprender com a comunidade!
 
+[Linkedin](https://www.linkedin.com/in/james-moura-500100162/)
+
 <!---
 james-moura/james-moura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
